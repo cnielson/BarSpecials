@@ -10,6 +10,4 @@ namespace BarSpecials.Data
         public DatabaseEntities() : base("name=SpecialsConnection") { }
         public virtual DbSet<PlaceModel> Places { get; set; }
     }
-
-    
 }

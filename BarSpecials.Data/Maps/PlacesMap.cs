@@ -7,13 +7,7 @@ namespace BarSpecials.Data.Maps
     {
         public static void Configure()
         {
-            AutoMapper.Mapper.CreateMap<Place, PlaceModel>()
-                .ForMember(dest => dest.Name, opts => opts.MapFrom(src => src.Name))
-                .ForMember(dest => dest.Id, opts => opts.MapFrom(src => src.Id.Value));
-
-            AutoMapper.Mapper.CreateMap<PlaceModel, Place>()
-                .ForMember(dest => dest.Name, opts => opts.MapFrom(src => src.Name))
-                .ForMember(dest => dest.Id, opts => opts.MapFrom(src => new Identifier(src.Id)));
+            
         }
     }
 }
