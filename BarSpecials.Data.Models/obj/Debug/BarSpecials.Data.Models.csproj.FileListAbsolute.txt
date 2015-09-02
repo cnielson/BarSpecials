@@ -1,0 +1,9 @@
+C:\Code\BarSpecials\BarSpecials.Data.Models\bin\Debug\BarSpecials.Data.Models.dll.config
+C:\Code\BarSpecials\BarSpecials.Data.Models\bin\Debug\BarSpecials.Data.Models.dll
+C:\Code\BarSpecials\BarSpecials.Data.Models\bin\Debug\BarSpecials.Data.Models.pdb
+C:\Code\BarSpecials\BarSpecials.Data.Models\bin\Debug\EntityFramework.dll
+C:\Code\BarSpecials\BarSpecials.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code\BarSpecials\BarSpecials.Data.Models\bin\Debug\EntityFramework.xml
+C:\Code\BarSpecials\BarSpecials.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code\BarSpecials\BarSpecials.Data.Models\obj\Debug\BarSpecials.Data.Models.dll
+C:\Code\BarSpecials\BarSpecials.Data.Models\obj\Debug\BarSpecials.Data.Models.pdb

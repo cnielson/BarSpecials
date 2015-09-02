@@ -1,0 +1,5 @@
+C:\Code\BarSpecials\Specials.Domain\bin\Debug\Specials.Domain.dll
+C:\Code\BarSpecials\Specials.Domain\bin\Debug\Specials.Domain.pdb
+C:\Code\BarSpecials\Specials.Domain\obj\Debug\Specials.Domain.csprojResolveAssemblyReference.cache
+C:\Code\BarSpecials\Specials.Domain\obj\Debug\Specials.Domain.dll
+C:\Code\BarSpecials\Specials.Domain\obj\Debug\Specials.Domain.pdb

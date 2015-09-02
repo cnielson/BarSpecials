@@ -60,3 +60,7 @@ C:\Code\BarSpecials\BarSpecials\bin\zh-Hant\System.Spatial.resources.dll
 C:\Code\BarSpecials\BarSpecials\obj\Debug\BarSpecials.csprojResolveAssemblyReference.cache
 C:\Code\BarSpecials\BarSpecials\obj\Debug\BarSpecials.dll
 C:\Code\BarSpecials\BarSpecials\obj\Debug\BarSpecials.pdb
+C:\Code\BarSpecials\BarSpecials\bin\Specials.Domain.dll
+C:\Code\BarSpecials\BarSpecials\bin\Specials.Domain.pdb
+C:\Code\BarSpecials\BarSpecials\bin\EntityFramework.SqlServer.dll
+C:\Code\BarSpecials\BarSpecials\bin\EntityFramework.SqlServer.xml
